@@ -1,4 +1,4 @@
-# CRISPR Guide Designer
+# CRISPR TOOL
 
 Este proyecto es una herramienta en Python que permite diseñar y seleccionar las mejores guías CRISPR a partir de un archivo FASTA con una secuencia de nucleótidos. El programa procesa la secuencia, genera candidatos de guías (para sistemas CRISPR Cas9 o Cas12), verifica su especificidad y genera una base de datos (TSV) con las guías seleccionadas. Además, puedes ejecutar el programa desde la línea de comandos y elegir si deseas generar gráficos que ilustren la posición de las guías a lo largo de la secuencia.
 
